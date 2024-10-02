@@ -29,6 +29,7 @@ public class User implements Serializable {
 	
 	private String lastName;
 	
+//test
 	@Temporal(TemporalType.DATE)
 	private Date dateNaissance;
 	
